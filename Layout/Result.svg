@@ -14,7 +14,7 @@
    width="1220mm"
    height="610mm"
    id="svg2"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Result.svg"
    viewBox="0 0 1220 610">
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1537"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview91444"
      showgrid="false"
      inkscape:zoom="1.9998747"
-     inkscape:cx="1598.1327"
-     inkscape:cy="1272.6169"
-     inkscape:window-x="1432"
-     inkscape:window-y="757"
+     inkscape:cx="1707.1104"
+     inkscape:cy="1168.652"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      units="mm"
@@ -472,7 +472,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1553,7 +1553,7 @@
          id="tspan2118"
          x="458.88974"
          y="288.12781"
-         style="font-size:16.37035179px;stroke-width:0.30694407">FAT</tspan></text>
+         style="font-size:16.37035179px;stroke-width:0.30694407;-inkscape-font-specification:Fatcat;font-family:Fatcat;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">FAT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.08808708px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22720218"
@@ -1567,6 +1567,6 @@
          id="tspan2126"
          x="551.52649"
          y="133.53462"
-         style="stroke-width:0.22720218">Tiger</tspan></text>
+         style="stroke-width:0.22720218;-inkscape-font-specification:'Fuzzy Bear';font-family:'Fuzzy Bear';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Tiger</tspan></text>
   </g>
 </svg>
